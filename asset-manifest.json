@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/baierbuam/static/css/main.157c4ca4.css",
+    "main.js": "/baierbuam/static/js/main.95dd53d7.js",
+    "static/js/787.c9abc789.chunk.js": "/baierbuam/static/js/787.c9abc789.chunk.js",
+    "static/media/image00003.jpeg": "/baierbuam/static/media/image00003.0e062e23d263d5ec4146.jpeg",
+    "static/media/image00001.jpeg": "/baierbuam/static/media/image00001.b54d03375645960f691d.jpeg",
+    "static/media/image00002.jpeg": "/baierbuam/static/media/image00002.6cf988892303ba1b6fae.jpeg",
+    "static/media/logo1.png": "/baierbuam/static/media/logo1.4307a56377c78f98092c.png",
+    "static/media/Montserrat-Regular.ttf": "/baierbuam/static/media/Montserrat-Regular.e20d5327f1a05620c084.ttf",
+    "static/media/instagram.png": "/baierbuam/static/media/instagram.ac32ec0a111aeba03298.png",
+    "index.html": "/baierbuam/index.html",
+    "main.157c4ca4.css.map": "/baierbuam/static/css/main.157c4ca4.css.map",
+    "main.95dd53d7.js.map": "/baierbuam/static/js/main.95dd53d7.js.map",
+    "787.c9abc789.chunk.js.map": "/baierbuam/static/js/787.c9abc789.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.157c4ca4.css",
+    "static/js/main.95dd53d7.js"
+  ]
+}
