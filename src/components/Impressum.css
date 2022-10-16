@@ -1,0 +1,14 @@
+@font-face {
+    font-family: Montserrat;
+    src: url(../Montserrat-Regular.ttf);
+}
+
+.Impressum_dsgvo {
+    margin-right: 20vw;
+    margin-left: 20vw;
+    font-family: Montserrat;
+}
+
+h1 {
+    color: rgba(0,45,91,255);
+}
