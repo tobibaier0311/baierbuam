@@ -1,6 +1,7 @@
 {
   "name": "baierbuam",
   "version": "0.1.0",
+  "homepage": "https://tobibaier0311.github.io/baierbuam",
   "private": true,
   "dependencies": {
     "@testing-library/jest-dom": "^5.16.5",
@@ -15,13 +16,15 @@
     "react-router-dom": "^6.4.1",
     "react-scripts": "5.0.1",
     "react-use-measure": "^2.1.1",
+    "save-dev": "^0.0.1-security",
     "web-vitals": "^2.1.4"
   },
   "scripts": {
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d build",
     "start": "react-scripts start",
     "build": "react-scripts build",
-    "test": "react-scripts test",
-    "eject": "react-scripts eject" 
+    "test": "react-scripts test"   
   },
   "eslintConfig": {
     "extends": [
