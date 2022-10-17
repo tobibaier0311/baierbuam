@@ -1,7 +1,7 @@
 {
   "name": "baierbuam",
   "version": "0.1.0",
-  "homepage": "https://tobibaier0311.github.io/baierbuam",
+  "homepage": "https://tobibaier0311.github.io/baierbuamandfriends",
   "private": true,
   "dependencies": {
     "@testing-library/jest-dom": "^5.16.5",
@@ -24,7 +24,7 @@
     "deploy": "gh-pages -d build",
     "start": "react-scripts start",
     "build": "react-scripts build",
-    "test": "react-scripts test"   
+    "test": "react-scripts test"
   },
   "eslintConfig": {
     "extends": [
