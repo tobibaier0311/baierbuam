@@ -10,7 +10,6 @@ import Logo from "./images/logo1.png";
 import Home from './components/Home'
 import Gigs from './components/Gigs'
 import Kontakt from './components/Kontakt';
-import { Impressum } from './components/Impressum';
 import { Datenschutz } from './components/Datenschutz';
 import { BrowserRouter as Router, Route, Routes, Link } from 'react-router-dom';
 
@@ -24,7 +23,7 @@ function App() {
         <Navbar.Toggle aria-controls="basic-navbar-nav" />
         <Navbar.Collapse id="basic-navbar-nav">
           <Nav className="navText m-auto justify-content-md-center">
-            <Nav.Link className='Link' as={Link} to="/baierbuamandfriends" >Home</Nav.Link>
+            <Nav.Link className='Link' as={Link} to="/" >Home</Nav.Link>
             <Nav.Link className='Link' as={Link} to="/gigs">Auftritte</Nav.Link>
             <Nav.Link className='Link' as={Link} to="/kontakt">Kontakt</Nav.Link>
           </Nav>
@@ -38,7 +37,7 @@ function App() {
       </> 
       <div>
         <Routes>
-        <Route path="/baierbuamandfriends" element={<Home/>}></Route>
+        <Route path="/" element={<Home/>}></Route>
         <Route path="/gigs" element={<Gigs/>}></Route>
         <Route path='/kontakt' element={<Kontakt/>}></Route>
         <Route path='/datenschutz' element={<Datenschutz/>}></Route>     
