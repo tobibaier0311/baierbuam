@@ -16,9 +16,6 @@ function Home() {
           src={ Bild1 }
           alt="First slide"
         />
-        <Carousel.Caption>
-          <h3>SV Schalding - FC Memmingen</h3>
-        </Carousel.Caption>
       </Carousel.Item>
       <Carousel.Item>
         <img
@@ -26,10 +23,6 @@ function Home() {
           src={Bild2}
           alt="Second slide"
         />
-
-        <Carousel.Caption>
-          <h3>Barbuddies Jubiläum</h3>
-        </Carousel.Caption>
       </Carousel.Item>
       <Carousel.Item>
         <img
@@ -37,10 +30,6 @@ function Home() {
           src={Bild3}
           alt="Third slide"
         />
-
-        <Carousel.Caption>
-          <h3>75 Jahre SV Schalding</h3>
-        </Carousel.Caption>
       </Carousel.Item>
     </Carousel>
     </div>
