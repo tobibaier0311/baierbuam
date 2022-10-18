@@ -1,23 +1,23 @@
 self.__precacheManifest = [
   {
-    "revision": "0ee9f3636900a04a895c",
-    "url": "/baierbuam/static/css/main.c8718725.chunk.css"
+    "revision": "ea63c9ea48ad9fdb3565",
+    "url": "/baierbuam/static/css/main.7aab2d2d.chunk.css"
   },
   {
-    "revision": "0ee9f3636900a04a895c",
-    "url": "/baierbuam/static/js/main.0ee9f363.chunk.js"
+    "revision": "ea63c9ea48ad9fdb3565",
+    "url": "/baierbuam/static/js/main.ea63c9ea.chunk.js"
   },
   {
     "revision": "cd474f2dcda6b2605ecf",
     "url": "/baierbuam/static/js/1.cd474f2d.chunk.js"
   },
   {
-    "revision": "d7162c4314feffbd0df7",
-    "url": "/baierbuam/static/css/2.f78e6a6c.chunk.css"
+    "revision": "ed034c325c79f1d0a42e",
+    "url": "/baierbuam/static/css/2.ed17cf27.chunk.css"
   },
   {
-    "revision": "d7162c4314feffbd0df7",
-    "url": "/baierbuam/static/js/2.d7162c43.chunk.js"
+    "revision": "ed034c325c79f1d0a42e",
+    "url": "/baierbuam/static/js/2.ed034c32.chunk.js"
   },
   {
     "revision": "a5f433f42b0cef7f6574",
@@ -48,7 +48,7 @@ self.__precacheManifest = [
     "url": "/baierbuam/static/media/Montserrat-Regular.07689d4e.ttf"
   },
   {
-    "revision": "106b2a11d2b56f02998b5ad0e5920520",
+    "revision": "915db6388ab5023460f93c25682debf1",
     "url": "/baierbuam/index.html"
   }
 ];
