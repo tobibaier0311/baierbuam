@@ -19,10 +19,10 @@ function App() {
     <>  
       <Navbar  className='Navbar' bg='light' expand="lg">
       <Container>
-      <Nav.Link as={Link} to="/" > <img className='logo' src={Logo} alt='Logo' width= "160px"></img></Nav.Link>
+      <Nav.Link as={Link} to="/" > <img className='logo' src={Logo} alt='Logo' width= "30%"></img></Nav.Link>
         <Navbar.Toggle aria-controls="basic-navbar-nav" />
         <Navbar.Collapse id="basic-navbar-nav">
-          <Nav className="navText m-auto justify-content-md-center">
+          <Nav className="navText ">
             <Nav.Link className='Link' as={Link} to="/baierbuam" >Home</Nav.Link>
             <Nav.Link className='Link' as={Link} to="/gigs">Auftritte</Nav.Link>
             <Nav.Link className='Link' as={Link} to="/kontakt">Kontakt</Nav.Link>
