@@ -22,8 +22,6 @@ function Cookie() {
         </Button>
       </div>
     </Alert>
-
-    {!show && <Button style={{position: 'absolute', bottom:'10%', left: '60%', zIndex:'1'}}  onClick={() => setShow(true)}>Show Alert</Button>}
   </></div>
     );
 

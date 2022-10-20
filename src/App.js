@@ -20,7 +20,7 @@ function App() {
     <>  
       <Navbar  className='Navbar' bg='light' expand="lg">
       <Container>
-      <Nav.Link as={Link} to="/" > <img className='logo' src={Logo} alt='Logo' width= "30%"></img></Nav.Link>
+      <Nav.Link as={Link} to="/baierbuam" > <img className='logo' src={Logo} alt='Logo' width= "30%"></img></Nav.Link>
         <Navbar.Toggle aria-controls="basic-navbar-nav" />
         <Navbar.Collapse id="basic-navbar-nav">
           <Nav className="navText ">

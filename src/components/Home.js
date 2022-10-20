@@ -9,7 +9,7 @@ import Bild3 from '../images/image00003.jpeg';
 function Home() {
     return(
         <div className="Home">
-        <Carousel className="w-100">
+        <Carousel className="w-50">
       <Carousel.Item> 
         <img
           className="d-block w-100"
