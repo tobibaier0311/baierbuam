@@ -12,6 +12,7 @@ import Gigs from './components/Gigs'
 import Kontakt from './components/Kontakt';
 import { Datenschutz } from './components/Datenschutz';
 import { BrowserRouter as Router, Route, Routes, Link } from 'react-router-dom';
+import Cookie from './components/Cookie';
 
 function App() {
   return (
@@ -43,6 +44,7 @@ function App() {
         <Route path='/datenschutz' element={<Datenschutz/>}></Route>     
         </Routes>
       </div>
+      <Cookie></Cookie>
       <footer>
       <Navbar fixed='bottom' bg="light" expand="lg">
       <Container>
