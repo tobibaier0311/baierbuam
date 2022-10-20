@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox-sw.js");
 
 importScripts(
-  "/baierbuam/precache-manifest.6f962ff0fa4b00f109bfa28295f63cb5.js"
+  "/baierbuam/precache-manifest.75fd99d0fd9272f34db0c2a789b518b0.js"
 );
 
 workbox.clientsClaim();
