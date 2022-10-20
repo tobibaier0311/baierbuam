@@ -1,27 +1,27 @@
 self.__precacheManifest = [
   {
-    "revision": "34d34a005348b43f5103",
-    "url": "/baierbuam/static/css/main.3d4ef0f2.chunk.css"
+    "revision": "bf2dd35460687a1906e7",
+    "url": "/baierbuam/static/css/main.e918992c.chunk.css"
   },
   {
-    "revision": "34d34a005348b43f5103",
-    "url": "/baierbuam/static/js/main.34d34a00.chunk.js"
+    "revision": "bf2dd35460687a1906e7",
+    "url": "/baierbuam/static/js/main.bf2dd354.chunk.js"
   },
   {
-    "revision": "cd474f2dcda6b2605ecf",
-    "url": "/baierbuam/static/js/1.cd474f2d.chunk.js"
+    "revision": "90ecf6b5710b2396cef7",
+    "url": "/baierbuam/static/js/1.90ecf6b5.chunk.js"
   },
   {
-    "revision": "6669e12e435941b1d346",
-    "url": "/baierbuam/static/css/2.ed17cf27.chunk.css"
+    "revision": "2cbfc521c2b8dc075815",
+    "url": "/baierbuam/static/css/2.bd8a566a.chunk.css"
   },
   {
-    "revision": "6669e12e435941b1d346",
-    "url": "/baierbuam/static/js/2.6669e12e.chunk.js"
+    "revision": "2cbfc521c2b8dc075815",
+    "url": "/baierbuam/static/js/2.2cbfc521.chunk.js"
   },
   {
-    "revision": "a5f433f42b0cef7f6574",
-    "url": "/baierbuam/static/js/runtime~main.a5f433f4.js"
+    "revision": "6fcb3ce0e3aa40d842f5",
+    "url": "/baierbuam/static/js/runtime~main.6fcb3ce0.js"
   },
   {
     "revision": "4f7cb5fbb28d0f9ddc97641f8b288735",
@@ -48,7 +48,7 @@ self.__precacheManifest = [
     "url": "/baierbuam/static/media/Montserrat-Regular.07689d4e.ttf"
   },
   {
-    "revision": "74f24944055a1f61d4e1672b8aec4593",
+    "revision": "14e6f0aafd1e325fc69bac0a5c0e415f",
     "url": "/baierbuam/index.html"
   }
 ];
