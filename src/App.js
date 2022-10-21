@@ -20,11 +20,11 @@ function App() {
     <>  
       <Navbar  className='Navbar' bg='light' expand="lg">
       <Container>
-      <Nav.Link as={Link} to="/baierbuam" > <img className='logo' src={Logo} alt='Logo' width= "30%"></img></Nav.Link>
+      <Nav.Link as={Link} to="/" > <img className='logo' src={Logo} alt='Logo' width= "30%"></img></Nav.Link>
         <Navbar.Toggle aria-controls="basic-navbar-nav" />
         <Navbar.Collapse id="basic-navbar-nav">
           <Nav className="navText ">
-            <Nav.Link className='Link' as={Link} to="/baierbuam" >Home</Nav.Link>
+            <Nav.Link className='Link' as={Link} to="/" >Home</Nav.Link>
             <Nav.Link className='Link' as={Link} to="/gigs">Auftritte</Nav.Link>
             <Nav.Link className='Link' as={Link} to="/kontakt">Kontakt</Nav.Link>
           </Nav>
@@ -38,7 +38,7 @@ function App() {
       </> 
       <div>
         <Routes>
-        <Route path="/baierbuam" element={<Home/>}></Route>
+        <Route path="/" element={<Home/>}></Route>
         <Route path="/gigs" element={<Gigs/>}></Route>
         <Route path='/kontakt' element={<Kontakt/>}></Route>
         <Route path='/datenschutz' element={<Datenschutz/>}></Route>     
