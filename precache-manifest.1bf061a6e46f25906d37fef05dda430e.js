@@ -1,11 +1,11 @@
 self.__precacheManifest = [
   {
-    "revision": "10b7a5eea4e02942a358",
+    "revision": "ec4eca47b5bbb9000459",
     "url": "/baierbuam/static/css/main.e918992c.chunk.css"
   },
   {
-    "revision": "10b7a5eea4e02942a358",
-    "url": "/baierbuam/static/js/main.10b7a5ee.chunk.js"
+    "revision": "ec4eca47b5bbb9000459",
+    "url": "/baierbuam/static/js/main.ec4eca47.chunk.js"
   },
   {
     "revision": "90ecf6b5710b2396cef7",
@@ -48,7 +48,7 @@ self.__precacheManifest = [
     "url": "/baierbuam/static/media/Montserrat-Regular.07689d4e.ttf"
   },
   {
-    "revision": "64715be2c4c8239e46792552a270148f",
+    "revision": "b8eed4142a1c1f89b5d88cbfdf839d6b",
     "url": "/baierbuam/index.html"
   }
 ];

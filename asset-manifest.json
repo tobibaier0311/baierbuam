@@ -1,7 +1,7 @@
 {
   "main.css": "/baierbuam/static/css/main.e918992c.chunk.css",
-  "main.js": "/baierbuam/static/js/main.10b7a5ee.chunk.js",
-  "main.js.map": "/baierbuam/static/js/main.10b7a5ee.chunk.js.map",
+  "main.js": "/baierbuam/static/js/main.ec4eca47.chunk.js",
+  "main.js.map": "/baierbuam/static/js/main.ec4eca47.chunk.js.map",
   "static/js/1.90ecf6b5.chunk.js": "/baierbuam/static/js/1.90ecf6b5.chunk.js",
   "static/js/1.90ecf6b5.chunk.js.map": "/baierbuam/static/js/1.90ecf6b5.chunk.js.map",
   "static/css/2.bd8a566a.chunk.css": "/baierbuam/static/css/2.bd8a566a.chunk.css",
@@ -18,6 +18,6 @@
   "static/css/main.e918992c.chunk.css.map": "/baierbuam/static/css/main.e918992c.chunk.css.map",
   "static/css/2.bd8a566a.chunk.css.map": "/baierbuam/static/css/2.bd8a566a.chunk.css.map",
   "index.html": "/baierbuam/index.html",
-  "precache-manifest.75fd99d0fd9272f34db0c2a789b518b0.js": "/baierbuam/precache-manifest.75fd99d0fd9272f34db0c2a789b518b0.js",
+  "precache-manifest.1bf061a6e46f25906d37fef05dda430e.js": "/baierbuam/precache-manifest.1bf061a6e46f25906d37fef05dda430e.js",
   "service-worker.js": "/baierbuam/service-worker.js"
 }
