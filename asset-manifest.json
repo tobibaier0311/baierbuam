@@ -1,7 +1,7 @@
 {
-  "main.css": "/baierbuam/static/css/main.e918992c.chunk.css",
-  "main.js": "/baierbuam/static/js/main.ec4eca47.chunk.js",
-  "main.js.map": "/baierbuam/static/js/main.ec4eca47.chunk.js.map",
+  "main.css": "/baierbuam/static/css/main.720d3a55.chunk.css",
+  "main.js": "/baierbuam/static/js/main.600a2bcd.chunk.js",
+  "main.js.map": "/baierbuam/static/js/main.600a2bcd.chunk.js.map",
   "static/js/1.90ecf6b5.chunk.js": "/baierbuam/static/js/1.90ecf6b5.chunk.js",
   "static/js/1.90ecf6b5.chunk.js.map": "/baierbuam/static/js/1.90ecf6b5.chunk.js.map",
   "static/css/2.bd8a566a.chunk.css": "/baierbuam/static/css/2.bd8a566a.chunk.css",
@@ -15,9 +15,9 @@
   "static/media/image00002.jpeg": "/baierbuam/static/media/image00002.1bdbe579.jpeg",
   "static/media/image00003.jpeg": "/baierbuam/static/media/image00003.8e014650.jpeg",
   "static/media/Impressum.css": "/baierbuam/static/media/Montserrat-Regular.07689d4e.ttf",
-  "static/css/main.e918992c.chunk.css.map": "/baierbuam/static/css/main.e918992c.chunk.css.map",
+  "static/css/main.720d3a55.chunk.css.map": "/baierbuam/static/css/main.720d3a55.chunk.css.map",
   "static/css/2.bd8a566a.chunk.css.map": "/baierbuam/static/css/2.bd8a566a.chunk.css.map",
   "index.html": "/baierbuam/index.html",
-  "precache-manifest.1bf061a6e46f25906d37fef05dda430e.js": "/baierbuam/precache-manifest.1bf061a6e46f25906d37fef05dda430e.js",
+  "precache-manifest.033177201228797486748772393753d4.js": "/baierbuam/precache-manifest.033177201228797486748772393753d4.js",
   "service-worker.js": "/baierbuam/service-worker.js"
 }
